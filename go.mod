@@ -1,4 +1,4 @@
-module gvisor.dev/gvisor
+module github.com/fanyiguang/gvisor
 
 go 1.17
 
